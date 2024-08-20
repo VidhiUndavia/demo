@@ -7,4 +7,6 @@ This is the simply first program
 
 
 
-print('hello world');print("Hello Radhika and Prince");print("""Hello Radhika and Prince""")
+print('hello world');print('hello world');print('hello world')
+print("Hello Radhika and Prince")
+print("""Hello Radhika and Prince""")

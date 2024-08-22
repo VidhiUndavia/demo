@@ -1,4 +1,8 @@
-str="sdscscnsqw76"
+str="sdscscnsqw76*"
+str2="hello Good morning"
+print(str2.upper())
+str3="HELLO HI"
+print(str3.lower())
 
 print(str.isalnum())
 print(str.isalpha())
@@ -7,11 +11,11 @@ print(str.isnumeric())
 str="KDKSD"
 print(str.islower())
 print(str.isupper())
-str="Hello Hi"
+str="Hello hi"
 print(str.istitle())
-str=" hsdi "
+str="  "
 print(str.isspace())
 str="hi hello how r u "
 print(len(str))
-print(str.replace("hH","r"))
-print(str.replace("h","a",2))
+print(str.replace("h","r"))
+print(str.replace("h","a",3))

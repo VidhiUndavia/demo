@@ -11,7 +11,7 @@ fruit.insert(3,"apple")
 print(fruit)
 
 print(fruit.count("apple"))
-fruit.remove("mango")
+fruit.remove("apple")
 print(fruit)
 fruit.sort()
 print(fruit)

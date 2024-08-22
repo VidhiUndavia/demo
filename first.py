@@ -4,10 +4,11 @@ year=2024# integer
 weight=56.78#float
 gender=True#boolean
 
-# print(name)
-# print(Institute)
-# print(year)
-# print(weight); print(gender)
+print(name)
+print(Institute)
+print(year)
+print(weight)
+print(gender)
 
 name="Vidhi"
 print("hello ",name," good evening")

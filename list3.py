@@ -7,8 +7,16 @@ num1=int(num1)
 ans=int(num1/10)
 print(ans)
 
-num1=num1/10
-num1=num1-ans
-print(num1)
-ans2=int(num1*10)
-print(ans2)
+
+
+digit=["zero","one","two","three","four","five","six","seven","eight","nine"]
+
+
+print("Digit = ",digit[ans])
+s=" "
+str=s.join(digit)
+print(digit)
+print(str)
+
+list2=str.split(s)
+print(list2)

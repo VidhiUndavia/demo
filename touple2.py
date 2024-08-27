@@ -1,0 +1,8 @@
+district=("Bhavnagar","Surat","Ahmedabad","surat","Ahmedabad","Rajkot","Anand","Ahmedabad")
+print(district)
+print(district.count("Ahmedabad"))
+print(district.count("Bhavnagar"))
+print(district.index("Surat"))
+print(district.index("Ahmedabad"))
+print(district.index("Ahmedabad"))
+print(district.index("surat"))

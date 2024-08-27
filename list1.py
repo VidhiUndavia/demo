@@ -4,7 +4,7 @@ vegies=["potato","tomato","onion"]
 print(fruit)
 print(fruit[3])
 print(fruit[2:])
-print(fruit[1:2])
+print(fruit[1:3])
 
 print(fruit+vegies+vegies)
 print(fruit)

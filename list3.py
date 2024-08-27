@@ -1,5 +1,10 @@
 list1=["Prince",45,5.35,True,"Jaimin"]
 print(list1)
+print(list1[1:])
+print(list1[1])
+print(list1[1:3])
+list1[1]="Easy"
+print(list1)
 
 num1=input("Enter any number = ")
 num1=int(num1)

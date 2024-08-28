@@ -1,4 +1,4 @@
-district=("Bhavnagar","Surat","Ahmedabad","surat","Ahmedabad","Rajkot","Anand","Ahmedabad")
+district=("Bhavnagar","Surat","Ahmedabad","Ahmedabad","Rajkot","Anand","Ahmedabad")
 print(district)
 print(district.count("Ahmedabad"))
 print(district.count("Bhavnagar"))

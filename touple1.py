@@ -4,8 +4,8 @@ mix=("Prince",60,56.78,True,"Jaimin")
 print(mix)
 print(mix[2])
 print(state[1:])
-print(state[1:4])
+print(state[3:0:-1])
 print(state*3)
 print(state+mix)
-state[2]="Gujarat"
-print(state)
+# state[2]="Gujarat"
+# print(state)

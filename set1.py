@@ -1,0 +1,12 @@
+fruit={"apple","Banana","mango","banana","pineapple","watermelon","banana"}
+print(fruit)
+fruit.add("Strawberry")
+fruit.add("apple")
+print(fruit)
+fruit.remove("apple")
+print(fruit)
+fruit.add("apple")
+print(fruit)
+list=["apple","banana","mango","banana"]
+fruit.add(list)
+print(fruit)

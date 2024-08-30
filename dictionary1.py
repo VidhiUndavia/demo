@@ -10,3 +10,5 @@ print(stud1)
 name=["prince","jaimin"]
 stud1["name"]=name
 print(stud1["name"])
+print(stud1)
+

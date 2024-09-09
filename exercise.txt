@@ -1,0 +1,4 @@
+1)votting system through nested if
+2)wap take 3 value from user and fid out which one is grater among them
+3)Marksheet
+4)zodiac sign and symbol find out from the date of birth

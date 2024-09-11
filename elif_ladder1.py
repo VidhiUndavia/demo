@@ -15,6 +15,6 @@ elif choice==3:
     print("Multiplication = ",first*second)
 elif choice==4:
     print("Division = ",first/second)
-# else:
-#     print("Invalid input")
-# print("Finish")
+else:
+    print("Invalid input")
+print("Finish")

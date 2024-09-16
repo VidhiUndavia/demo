@@ -2,3 +2,7 @@
 2)wap take 3 value from user and fid out which one is grater among them through nested if
 3)Marksheet elif
 4)zodiac sign and symbol find out from the date of birth
+5)wap to find out that given number is palindrom or not
+6)wap to take 3 digit number and find out number is armstrong or not
+7)wap to find out given number is prime number or not
+8)wap to findout the sum of number's digits

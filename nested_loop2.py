@@ -8,3 +8,12 @@ while i<num:
         j+=1
     print()
     i+=1
+
+# output
+# D:\python_3>py nested_loop2.py
+# How many rows u want to print = 5
+# A
+# AB
+# ABC
+# ABCD
+# ABCDE

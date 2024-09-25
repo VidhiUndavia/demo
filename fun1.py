@@ -1,3 +1,4 @@
+# with argument with return value
 def getSquare(number):
     square=number*number
     return square
